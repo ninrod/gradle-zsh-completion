@@ -1,0 +1,12 @@
+* Gradle ZSH completion
+  - completion plugin for zsh
+  - synced with [[https://github.com/gradle/gradle-completion][upstream]]
+
+* LICENSE
+- [[https://www.gnu.org/licenses/gpl-3.0.en.html][GNU General Public License v3]]
+#+BEGIN_SRC text
+GNU General Public License v3
+Copyright (c) 2018 Filipe Silva (ninrod)
+#+END_SRC
+
+
